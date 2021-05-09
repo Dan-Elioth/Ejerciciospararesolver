@@ -37,5 +37,3 @@ elif bonosueldo2>bonosueldo1:
 
 #Datos de salida
 print(f"El bono que recibira es:${bonofinal:.2f}")
-
-
